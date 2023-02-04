@@ -1,0 +1,8 @@
+C:\Users\Анатолий\Desktop\C#\Whiles.homework2.ex1\Whiles.Homework.ex2\bin\Debug\Whiles.Homework.ex2.exe.config
+C:\Users\Анатолий\Desktop\C#\Whiles.homework2.ex1\Whiles.Homework.ex2\bin\Debug\Whiles.Homework.ex2.exe
+C:\Users\Анатолий\Desktop\C#\Whiles.homework2.ex1\Whiles.Homework.ex2\bin\Debug\Whiles.Homework.ex2.pdb
+C:\Users\Анатолий\Desktop\C#\Whiles.homework2.ex1\Whiles.Homework.ex2\obj\Debug\Whiles.Homework.ex2.csproj.AssemblyReference.cache
+C:\Users\Анатолий\Desktop\C#\Whiles.homework2.ex1\Whiles.Homework.ex2\obj\Debug\Whiles.Homework.ex2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Анатолий\Desktop\C#\Whiles.homework2.ex1\Whiles.Homework.ex2\obj\Debug\Whiles.Homework.ex2.csproj.CoreCompileInputs.cache
+C:\Users\Анатолий\Desktop\C#\Whiles.homework2.ex1\Whiles.Homework.ex2\obj\Debug\Whiles.Homework.ex2.exe
+C:\Users\Анатолий\Desktop\C#\Whiles.homework2.ex1\Whiles.Homework.ex2\obj\Debug\Whiles.Homework.ex2.pdb
